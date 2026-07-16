@@ -25,7 +25,6 @@ EDA helps us to answer questions such as:
 
 Rather than attempting to prove assumptions, EDA is used to discover them.
 
----
 
 # 🔨 My Approach
 
@@ -70,7 +69,6 @@ For example:
 
 This approach transforms EDA from descriptive reporting into an investigative process.
 
----
 
 # 📑 Objectives
 
@@ -82,7 +80,6 @@ Across these projects, I aim to:
 - Generate actionable business insights from data
 - Build a portfolio demonstrating analytical reasoning alongside technical skills
 
----
 
 # 🔩 Tools & Technologies
 
@@ -93,15 +90,12 @@ Across these projects, I aim to:
 - Plotly
 - Jupyter Notebook
 
----
 
 # 📋 Projects
 
 | Project | Business Goal | Status |
 |----------|---------------|--------|
 | Retail Revenue Growth Analysis | Investigate inconsistent revenue growth despite increasing sales activity | ✅ Completed |
-
----
 
 # 📇 Repository Structure
 
@@ -149,7 +143,6 @@ It is also about asking meaningful questions, allowing the data to guide the inv
 
 Each project in this repository reflects that philosophy by treating data analysis as an iterative process of observation, hypothesis generation, investigation, and interpretation.
 
----
 
 ## 📔 Contact
 
