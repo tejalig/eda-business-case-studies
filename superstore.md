@@ -57,11 +57,12 @@ Data spans four years:
 
 Initial analysis focused on annual business performance by examining:
 
-- Total Revenue
-- Total Orders
-- Total Quantity Sold
-- Total Products Sold
-- Year-over-Year Revenue Growth
+- Total Revenue                 : ~$2.3M
+- Total Customers               :
+- Total Orders                  : 5K
+- Total Quantity Sold           :
+- Total Products Sold           :
+- Year-over-Year Revenue Growth :
 
 ### Key Finding
 
