@@ -1,4 +1,4 @@
-# Exploratory Data Analysis (EDA): Business Case Studies
+# 🔬 Exploratory Data Analysis (EDA): Business Case Studies 
 
 ## Overview
 
@@ -8,9 +8,8 @@ Each project approaches the data from a business perspective by simulating real-
 
 The goal of this repository is to demonstrate not only technical proficiency with Python and data analysis libraries, but also the analytical & critical thinking that is involved in solving business problems.
 
----
 
-# Why Exploratory Data Analysis?
+# 🔆 Why Exploratory Data Analysis? 
 
 Exploratory Data Analysis (EDA) is one of the most important stages of the data analysis process.
 
@@ -28,7 +27,7 @@ Rather than attempting to prove assumptions, EDA is used to discover them.
 
 ---
 
-# My Approach
+# 🔨 My Approach
 
 Each project follows a structured analytical workflow inspired by real business investigations.
 
@@ -73,7 +72,7 @@ This approach transforms EDA from descriptive reporting into an investigative pr
 
 ---
 
-# Objectives
+# 📑 Objectives
 
 Across these projects, I aim to:
 
@@ -85,7 +84,7 @@ Across these projects, I aim to:
 
 ---
 
-# Tools & Technologies
+# 🔩 Tools & Technologies
 
 - Python
 - Pandas
@@ -96,30 +95,29 @@ Across these projects, I aim to:
 
 ---
 
-# Projects
+# 📋 Projects
 
 | Project | Business Goal | Status |
 |----------|---------------|--------|
 | Retail Revenue Growth Analysis | Investigate inconsistent revenue growth despite increasing sales activity | ✅ Completed |
-| Customer Churn Analysis | Identify factors contributing to customer attrition | 🚧 In Progress |
-| *(Future Project)* | To be added | ⏳ Planned |
 
 ---
 
-# Repository Structure
+# 📇 Repository Structure
 
 ```
 EDA-Business-Case-Studies/
 │
 ├── notebooks/
-│   ├── 00_cleaning_and_preparation.ipynb
-│   ├── 01_EDA.ipynb
-│   └── 02_hypothesis_1.ipynb
-│   └── 03_hypothesis_2.ipynb
-│   └── 04_hypothesis_3.ipynb
-│   └── 05_hypothesis_4.ipynb
-│   └── 06_hypothesis_5.ipynb
-│   └── 07_hypothesis_6.ipynb
+│   ├── superstore
+│   ├────── 00_cleaning_and_preparation.ipynb
+│   ├────── 01_EDA.ipynb
+│   ├────── 02_hypothesis_1.ipynb
+│   ├────── 03_hypothesis_2.ipynb
+│   ├────── 04_hypothesis_3.ipynb
+│   ├────── 05_hypothesis_4.ipynb
+│   ├────── 06_hypothesis_5.ipynb
+│   └────── 07_hypothesis_6.ipynb
 │
 ├── datasets/
 │
@@ -130,9 +128,8 @@ EDA-Business-Case-Studies/
 └── README.md
 ```
 
----
 
-# Each project includes:
+# 📐 Each project includes:
 
 - Business scenario and objectives
 - Dataset overview
@@ -143,9 +140,8 @@ EDA-Business-Case-Studies/
 - Business recommendations
 - Visualizations supporting each conclusion
 
----
 
-# Key Learning
+# 📌 Key Learning
 
 One of the biggest lessons I've taken from these projects is that effective EDA is not only about producing as many visualizations as possible.
 
@@ -155,6 +151,6 @@ Each project in this repository reflects that philosophy by treating data analys
 
 ---
 
-## Contact
+## 📔 Contact
 
 If you'd like to discuss these projects, share feedback, or connect, feel free to reach out through LinkedIn.
