@@ -58,11 +58,11 @@ Data spans four years:
 Initial analysis focused on annual business performance by examining:
 
 - Total Revenue                 : ~$2.3M
-- Total Customers               :
+- Total Customers               : 793
 - Total Orders                  : 5K
-- Total Quantity Sold           :
-- Total Products Sold           :
-- Year-over-Year Revenue Growth :
+- Total Quantity Sold           : 37871
+- Total Products Sold           : 1862
+- Year-over-Year Revenue Growth : 20% increase in 2017 in comparison to 2016
 
 ### Key Finding
 
