@@ -4,6 +4,56 @@
 
 This project performs an Exploratory Data Analysis (EDA) on historical retail sales data to simulate a real-world business scenario.
 
+
+## Tools Used
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Plotly *(if applicable)*
+- Jupyter Notebook
+
+---
+
+## Exploratory Analysis Techniques
+
+- Aggregation
+- Pivot Tables
+- Time-Series Analysis
+- Growth Rate Analysis
+- Median-based Analysis
+- Business KPI Analysis
+- Hypothesis-driven Exploration
+
+---
+
+
+## Repository Structure
+
+```
+Retail-Revenue-EDA/
+│
+├── data/
+│   ├── retail_sales.csv
+│
+├── notebooks/
+│   ├── 01_Data_Cleaning.ipynb
+│   ├── 02_Exploratory_Analysis.ipynb
+│   ├── 03_Hypothesis_Analysis.ipynb
+│
+├── visuals/
+│   ├── yearly_trends.png
+│   ├── quarterly_trends.png
+│   ├── monthly_trends.png
+│   ├── category_analysis.png
+│
+├── README.md
+│
+└── requirements.txt
+``
+
+
 ### Business Goal
 Increase business revenue by identifying factors contributing to inconsistent revenue growth and uncovering opportunities for improvement.
 
@@ -135,34 +185,8 @@ Analysis included:
 
 Outcome:
 
-Category performance varied considerably.
+- Technology and to some extent Furniture, are contributing towards the decline in Median Order Value.
 
-Technology and Furniture showed stronger increases in quantity compared to revenue growth, suggesting lower revenue generated per additional unit sold.
-
-Office Supplies demonstrated comparatively stronger revenue performance, indicating that the decline in Median Order Value is not uniform across all categories.
-
----
-
-## Tools Used
-
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Plotly *(if applicable)*
-- Jupyter Notebook
-
----
-
-## Exploratory Analysis Techniques
-
-- Aggregation
-- Pivot Tables
-- Time-Series Analysis
-- Growth Rate Analysis
-- Median-based Analysis
-- Business KPI Analysis
-- Hypothesis-driven Exploration
 
 ---
 
@@ -187,30 +211,7 @@ Potential strategies to improve revenue include:
 - Optimize product mix to increase revenue per customer order.
 
 ---
-
-## Repository Structure
-
-```
-Retail-Revenue-EDA/
-│
-├── data/
-│   ├── retail_sales.csv
-│
-├── notebooks/
-│   ├── 01_Data_Cleaning.ipynb
-│   ├── 02_Exploratory_Analysis.ipynb
-│   ├── 03_Hypothesis_Analysis.ipynb
-│
-├── visuals/
-│   ├── yearly_trends.png
-│   ├── quarterly_trends.png
-│   ├── monthly_trends.png
-│   ├── category_analysis.png
-│
-├── README.md
-│
-└── requirements.txt
-```
+`
 
 ---
 
