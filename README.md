@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a collection of Exploratory Data Analysis (EDA) projects built using real-world datasets.
+This repository contains a collection of business case study projects built using real-world datasets.
 
 Each project approaches the data from a business perspective by simulating real-world analytical scenarios. Every analysis begins with a business objective, explores the data to identify meaningful patterns, develops hypotheses based on observed trends, and concludes with data-driven business insights and recommendations.
 
@@ -14,16 +14,16 @@ The goal of this repository is to demonstrate not only technical proficiency wit
 - Pandas
 - NumPy
 - Matplotlib
-- Plotly *(if applicable)*
+- Plotly
 - Jupyter Notebook
 
-# 📋 Projects
+## 📋 Projects
 
 | Project | Business Goal | Status |
 |-||--|
 | Retail Revenue Growth Analysis | Investigate inconsistent revenue growth despite increasing sales activity | ✅ Completed |
 
-# 📑 Objectives
+## 📑 Objectives
 
 Across these projects, I aim to:
 
@@ -42,7 +42,7 @@ Across these projects, I aim to:
 - Business KPI Analysis
 - Hypothesis-driven Exploration
 
-# 🔨 My Approach
+## 🔨 My Approach
 
 Each project follows a structured analytical workflow inspired by real business investigations.
 
@@ -233,12 +233,24 @@ Analysis included:
 - Revenue growth by Category
 - Quantity growth by Category
 - Median Order Value by Category
-- Revenue trends for Sub-Categories
+- Revenue share for category
 
 Outcome:
 
 - Technology and to some extent Furniture, are contributing towards the decline in Median Order Value.
 
+#### Hypothesis 3
+> There has been an increase in discount provided across products, contributing to lower Median Order Value and inconsistent revenue growth.
+
+Analysis included:
+- Overall discount trend
+- Discount by Category
+- Discout distribution
+- Revenue vs Discount
+
+Outcome:
+- Discount levels remained relatively stable across years and categories, indicating that the company's pricing strategy did not become more aggressive over time. 
+- The decline in Median Order Value and inconsistent revenue growth are more likely explained by other factors, such as changes in product mix, customer purchasing behaviour, or order composition.
 
 ### Key Business Insights
 
